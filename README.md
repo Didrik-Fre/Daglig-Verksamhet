@@ -31,4 +31,6 @@ This is my readme file that i will use for my own personal notes.
    - I made a test 1 html file on my windows to see if i got it on my mac pc and i did.
     - Made a test 2 html file on my mac to see if i can see it on my windows pc and i did.
 
+  - Deleted the test files.
+
     
