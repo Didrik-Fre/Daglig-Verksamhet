@@ -21,3 +21,8 @@ This is my readme file that i will use for my own personal notes.
    - Fine polish my grid system/items
    - Make the HTML files for the different subcategorys (Scuch as barn-och ungdomsboende etc)
    - For the HTML for the subcategorys i am only going to give them a navbar and an H1 for now
+
+   - 16 october 2026:
+    - Updated some class names to make it more specific
+    - Started to work on Individ&Familj
+     - Next step is coding Individ&Familj done
