@@ -33,6 +33,12 @@ This is my readme file that i will use for my own personal notes.
 
   - Deleted the test files.
 
-  test
+ - 20 October 2026:
+  - Made a subcategory folder for Så jobbar vi
+  - In the subcategory folder for Så jobbar vi i made another subcategory for Diagnoser
+    so it will be easier to have a system over all the HTML files
+  - Again i did fix on CSS classes and HTML classes
+  - Fixed on alot of HTML that the path to the correct files is correct to when navigation
+    on the website is correct
 
     
