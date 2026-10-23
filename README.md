@@ -41,4 +41,41 @@ This is my readme file that i will use for my own personal notes.
   - Fixed on alot of HTML that the path to the correct files is correct to when navigation
     on the website is correct
 
+- 23 October 2026
+ - Worked on coding on the diagnoses HTML files such as Autisme, Bipolar etc
+  - Full List of who is done:
+   - ADHD/ADD
+   - Autism eller autismspektrumtillstånd (AST)
+   - Beroende Sjukdom
+   - Bipolär Sjukdom
+   - Depression
+   - Downs Syndrom
+  - Full list on what is left:
+   - Förvärad hjärnskada
+   - Huntingson sjukdom
+   - Intellektuell funktionsnedsättning
+   - Neuropsykiatriska funktionsnedsattningar NPF
+   - Psykos
+   - Schizofreni
+   - Självskade beteende
+   - Touretts syndrom
+   - Tvångssyndron och tvångstankar
+   - Ätstörningar
+ - Coded done for Lagrum and also the subcategory for Lagrum
+  - LSS
+  - Individ & familj
+  - Skollagen
+- Plans for next coding session:
+ - Code done for all the subcategory for Diagnoser
+ - Code done the other HTML files that is on Så jobbar Vi
+  - That is:
+   - Liv och hälsa
+   - Medarbetare
+   - Metoder och arbetssätt
+   - Nyhetsbrev
+   - Nytidas hemmakoncept
+   - Nytidas ramverk för pedagogik - vårt arbetssätt
+  - What i don`t get done with i will update here on the readme file.
+
+
     
